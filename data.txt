@@ -1,0 +1,93 @@
+[
+    {
+        "question": "Where were the 2016 Summer Olympics held?",
+        "answers": [
+            "rio",
+            "rio de janeiro",
+            "brazil"
+        ],
+        "difficulty": 3
+    },
+    {
+        "question": "In which year was Halley's Comet last visible from Earth?",
+        "answers": [
+            "1986"
+        ],
+        "difficulty": 4
+    },
+    {
+        "question": "What is the rarest M&M colour?",
+        "answers": [
+            "brown"
+        ],
+        "difficulty": 5
+    },
+    {
+        "question": "How many fingers are there in the human hand?",
+        "answers": [
+            "ten",
+            "10"
+        ],
+        "difficulty": 1
+    },
+    {
+        "question": "What is the capital of Western Australia?",
+        "answers": [
+            "perth"
+        ],
+        "difficulty": 2
+    },
+    {
+        "question": "What is the chemical symbol of barium?",
+        "answers": [
+            "ba"
+        ],
+        "difficulty": 5
+    },
+    {
+        "question": "What is the capital of France?",
+        "answers": [
+            "paris"
+        ],
+        "difficulty": 2
+    },
+    {
+        "question": "How many bits in a byte?",
+        "answers": [
+            "8",
+            "eight"
+        ],
+        "difficulty": 5
+    },
+    {
+        "question": "Who is the current President of the US?",
+        "answers": [
+            "donald trump",
+            "trump"
+        ],
+        "difficulty": 2
+    },
+    {
+        "question": "Who is the author of \"1984\" the novel?",
+        "answers": [
+            "george orwell",
+            "orwell"
+        ],
+        "difficulty": 4
+    },
+    {
+        "question": "Who is the President of France?",
+        "answers": [
+            "emmanuel macron",
+            "macron"
+        ],
+        "difficulty": 5
+    },
+    {
+        "question": "Who invented the Pythagoream Theorem?",
+        "answers": [
+            "pythagoras"
+        ],
+        "difficulty": 1
+    }
+]
